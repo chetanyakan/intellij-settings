@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Go dep notifications" shouldLog="false" />
+    <notification groupId="Go dep sticky notifications" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
