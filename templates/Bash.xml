@@ -1,0 +1,6 @@
+<templateSet group="Bash">
+  <template name="then" value=".then(($a$) =&gt; $END$);" description="then + arrow func" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
