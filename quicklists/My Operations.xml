@@ -1,0 +1,12 @@
+<list display="My Operations" description="Operations often use">
+  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.Push" />
+  <action id="Git.Pull" />
+  <action id="QuickList.$Separator$" />
+  <action id="Git.Branches" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="QuickList.$Separator$" />
+  <action id="Annotate" />
+  <action id="ShowBookmarks" />
+  <action id="ViewBreakpoints" />
+</list>
