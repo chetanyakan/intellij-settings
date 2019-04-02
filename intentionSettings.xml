@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
-    <ignoreAction name="Scala/Import/Import additional identifiers" />
-  </component>
-</application>

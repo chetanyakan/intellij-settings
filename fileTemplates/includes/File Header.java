@@ -1,5 +1,0 @@
-/**
- * 
- * @author sunzq
- * ${DATE}
- */
