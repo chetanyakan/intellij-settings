@@ -1,9 +1,9 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker-Local" type="docker">
-      <configuration>
+    <remote-server name="Docker" type="docker">
+      <configuration email="">
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
-        <option name="certificatesPath" />
+        <option name="composeExecPath" value="/usr/bin/docker-compose" />
       </configuration>
     </remote-server>
   </component>
