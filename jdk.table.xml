@@ -35,7 +35,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/calyx" />
+      <additional />
     </jdk>
     <jdk version="2">
       <name value="1.8" />
