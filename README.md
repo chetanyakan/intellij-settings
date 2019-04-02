@@ -1,1 +1,2 @@
-# ide-settings
+# settings
+My intellij/pycharm settings
