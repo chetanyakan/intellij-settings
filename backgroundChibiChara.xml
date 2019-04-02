@@ -1,0 +1,10 @@
+<application>
+  <component name="BackgroundChibiCharaApplicationBackgroundChibiCharaSettings">
+    <option name="filepathList">
+      <list>
+        <option value="C:\Users\Frank\Downloads\java.jpg" />
+      </list>
+    </option>
+    <option name="alpha" value="0.16" />
+  </component>
+</application>
