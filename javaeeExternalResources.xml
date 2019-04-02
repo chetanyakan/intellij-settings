@@ -1,0 +1,16 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/8a4ed387_web-app_2_5.xsd" />
+    <resource url="http://maven.apache.org/ASSEMBLY/2.0.0" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/a7faf726_assembly-2.0.0.xsd" />
+    <resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a7faf726_assembly-2.0.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/data/jpa" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/70573892_spring-jpa.xsd" />
+    <resource url="http://www.springframework.org/schema/data/jpa/spring-jpa.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/70573892_spring-jpa.xsd" />
+    <resource url="http://www.springframework.org/schema/data/repository/spring-repository.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/977a1048_spring-repository.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/9b192256_xml.xsd" />
+    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/2889bd79_svg11.dtd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/27c071c8_web-app_3_1.xsd" />
+  </component>
+</application>
