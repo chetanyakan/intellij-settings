@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="CSScomb" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="pylint" />
-      <option name="PARAMETERS" value="$FileDir$/$FileName$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v8.9.3/bin/csscomb" />
+      <option name="PARAMETERS" value="$FilePath$ -t" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
 </toolSet>
