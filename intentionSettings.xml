@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Scala/Argument Conversion/Convert to block expression" />
+    <ignoreAction name="Scala/Import/Import additional identifiers" />
   </component>
 </application>
