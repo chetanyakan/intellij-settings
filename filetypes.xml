@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="md" approved="true" type="Markdown" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="servletcontainerinitializer" type="PLAIN_TEXT" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="ps1" type="Native" />
+      <mapping pattern="todolyDB" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
