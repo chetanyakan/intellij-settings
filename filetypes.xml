@@ -1,26 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="ktr" type="Native" />
-      <mapping ext="kjb" type="Native" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
-      <mapping pattern="part-00000" type="PLAIN_TEXT" />
-      <mapping pattern="secondarymodifiers" type="PLAIN_TEXT" />
-      <mapping pattern="GetUserByListOutput" type="PLAIN_TEXT" />
-      <mapping pattern="api-cron" type="PLAIN_TEXT" />
-      <mapping pattern="CreateOutput" type="PLAIN_TEXT" />
-      <mapping pattern="Contract" type="PLAIN_TEXT" />
-      <mapping pattern=".part-00000-97f2cd70-a5fd-4117-adab-76d7032b1538.csv.crc" type="PLAIN_TEXT" />
-      <mapping pattern="Instructions" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="Data Model" type="PLAIN_TEXT" />
-      <mapping pattern="repos" type="PLAIN_TEXT" />
-      <mapping pattern="GetIdListOutput" type="PLAIN_TEXT" />
-      <mapping pattern="GetUserByIdOutput" type="PLAIN_TEXT" />
-      <mapping pattern="CreateUserValidationInvalidResponse" type="PLAIN_TEXT" />
-      <mapping pattern="resourceUtilTest" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="servletcontainerinitializer" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
     </extensionMap>
   </component>
 </application>
