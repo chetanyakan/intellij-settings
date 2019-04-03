@@ -1,16 +1,22 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/8a4ed387_web-app_2_5.xsd" />
-    <resource url="http://maven.apache.org/ASSEMBLY/2.0.0" location="$USER_HOME$/.IdeaIC2018.3/system/extResources/a7faf726_assembly-2.0.0.xsd" />
-    <resource url="http://maven.apache.org/xsd/assembly-2.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a7faf726_assembly-2.0.0.xsd" />
-    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/d83fe593_spring-beans-4.3.xsd" />
-    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a93b54e7_spring-context.xsd" />
-    <resource url="http://www.springframework.org/schema/data/jpa" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/70573892_spring-jpa.xsd" />
-    <resource url="http://www.springframework.org/schema/data/jpa/spring-jpa.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/70573892_spring-jpa.xsd" />
-    <resource url="http://www.springframework.org/schema/data/repository/spring-repository.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/977a1048_spring-repository.xsd" />
-    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/946a6b65_spring-tool-4.3.xsd" />
-    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/9b192256_xml.xsd" />
-    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/2889bd79_svg11.dtd" />
-    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/27c071c8_web-app_3_1.xsd" />
+    <resource url="file://$USER_HOME$/git/kahalemakai/opencsv/plugins/src/main/resources/schemas/console-writer.xsd" location="$USER_HOME$/git/kahalemakai/opencsv/plugins/src/main/resources/schemas/console-writer.xsd" />
+    <resource url="file://$USER_HOME$/git/kahalemakai/opencsv/plugins/src/main/schemas/file-writer.xsd" location="$USER_HOME$/git/kahalemakai/opencsv/plugins/src/main/resources/schemas/file-writer.xsd" />
+    <resource url="file:/$USER_HOME$/git/kahalemakai/opencsv/plugins/src/main/schemas/file-writer.xsd" location="/" />
+    <resource url="http://github.com/kaHaleMaKai/opencsv" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/63dd9a49_opencsv.xsd" />
+    <resource url="http://github.com/kaHaleMaKai/opencsv/plugins/console-writer" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/56d9c25e_console-writer.xsd" />
+    <resource url="http://kahalemakai.github.io/schemas/opencsv/0.2.1/opencsv.xsd" location="$USER_HOME$/.IdeaIC15/system/extResources/9ea9cc48_opencsv.xsd" />
+    <resource url="http://kahalemakai.github.io/schemas/opencsv/0.4.0/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/63dd9a49_opencsv.xsd" />
+    <resource url="http://kahalemakai.github.io/schemas/opencsv/0.4.0/sink.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/f3a70d3c_sink.xsd" />
+    <resource url="http://kahalemakai.github.io/schemas/opencsv/0.4.9/sink.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/8a3c0753_sink.xsd" />
+    <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/5a3ee903_log4j.dtd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.2.3/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/7afd07ed_opencsv.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.3.1/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/f7d2652c_opencsv.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.3.5/bean.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/89360852_bean.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.3.5/csv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/e6e8413a_csv.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.3.5/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.2/system/extResources/b1de7f30_opencsv.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.4.3/opencsv.xsd" location="$USER_HOME$/.IdeaIC/system/extResources/2eb3dc6f_opencsv.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.4.7/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/e8bff673_opencsv.xsd" />
+    <resource url="https://kahalemakai.github.io/schemas/opencsv/0.5.0/opencsv.xsd" location="$USER_HOME$/.IdeaIC2016.3/system/extResources/bd06332d_opencsv.xsd" />
   </component>
 </application>

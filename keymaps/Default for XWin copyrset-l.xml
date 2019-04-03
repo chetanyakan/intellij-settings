@@ -1,0 +1,116 @@
+<keymap version="1" name="Default for XWin copyrset-l" parent="Default for XWin">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="AddNewTabToTheEndMode">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorBackSpace" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDown" />
+  <action id="EditorDownWithSelection" />
+  <action id="EditorDuplicate" />
+  <action id="EditorEnter" />
+  <action id="EditorEscape" />
+  <action id="EditorJoinLines" />
+  <action id="EditorLeft" />
+  <action id="EditorLeftWithSelection" />
+  <action id="EditorLineEnd" />
+  <action id="EditorLineEndWithSelection" />
+  <action id="EditorLineStart" />
+  <action id="EditorLineStartWithSelection" />
+  <action id="EditorMatchBrace" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPageDown" />
+  <action id="EditorPageDownWithSelection" />
+  <action id="EditorPageUp" />
+  <action id="EditorPageUpWithSelection" />
+  <action id="EditorPasteFromX11" />
+  <action id="EditorPasteSimple" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorRight" />
+  <action id="EditorRightWithSelection" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="EditorStartNewLineBefore" />
+  <action id="EditorTab" />
+  <action id="EditorTextEnd" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart" />
+  <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleCase" />
+  <action id="EditorToggleColumnMode" />
+  <action id="EditorToggleInsertState" />
+  <action id="EditorUnSelectWord" />
+  <action id="EditorUnindentSelection" />
+  <action id="EditorUp" />
+  <action id="EditorUpWithSelection" />
+  <action id="EncapsulateFields">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="Images.Thumbnails.Hide" />
+  <action id="IntroduceParameter" />
+  <action id="NextParameter" />
+  <action id="NextTab" />
+  <action id="NextTemplateVariable" />
+  <action id="ParameterInfo" />
+  <action id="PrevParameter" />
+  <action id="PreviousTab" />
+  <action id="PreviousTemplateVariable" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="Vcs.UpdateProject" />
+</keymap>

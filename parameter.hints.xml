@@ -1,6 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
-    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.apache.spark.rdd.JdbcRDD.JdbcRDD(sc,getConnection,sql,lowerBound,upperBound,numPartitions,mapRow,evidence$1)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
