@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="SplitVertically" />
+      <action id="SplitHorizontally" />
+    </abbreviations>
+  </component>
+</application>

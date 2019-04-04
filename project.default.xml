@@ -1,21 +1,59 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/git/gradle-avro-plugin" value="2930561470992" />
+            <entry key="$USER_HOME$/git/kahalemakai/object-pool" value="1485780446681" />
+            <entry key="$USER_HOME$/git/kahalemakai/opencsv" value="2979900060132" />
+            <entry key="$USER_HOME$/git/kahalemakai/tuples" value="2979949284690" />
+            <entry key="$USER_HOME$/git/kahalemakai/whirlpool" value="2971903806893" />
+            <entry key="$USER_HOME$/minecraft-mods" value="1447343342000" />
+            <entry key="$USER_HOME$/pacs-spark/hive/ts-conversion" value="2967666455687" />
+            <entry key="$USER_HOME$/pacs-spark/service/enrich-performance-data" value="2980124177112" />
+            <entry key="$USER_HOME$/pacs-spark/service/import-csv-to-hdfs" value="2924918529615" />
+            <entry key="$USER_HOME$/pacs-spark/service/importer" value="10352881205180" />
+            <entry key="$USER_HOME$/pacs-spark/utils/config" value="2919001290230" />
+          </map>
+        </option>
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
-        <option name="projectSyncType">
-          <map>
-            <entry key="$USER_HOME$/reflect-mobile" value="PREVIEW" />
-          </map>
-        </option>
       </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="lars" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>JSON</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>JsonDuplicatePropertyKeys</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -23,6 +61,7 @@
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <module />
+          <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -37,6 +76,7 @@
           <option name="PASS_PARENT_ENVS" value="true" />
           <module name="" />
           <envs />
+          <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -49,7 +89,7 @@
           <option name="TEST_OBJECT" value="class" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="ENV_VARIABLES" />
           <option name="PASS_PARENT_ENVS" value="true" />
           <option name="TEST_SEARCH_SCOPE">
@@ -57,6 +97,7 @@
           </option>
           <envs />
           <patterns />
+          <method />
         </configuration>
         <configuration default="true" type="Remote" factoryName="Remote">
           <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -64,6 +105,7 @@
           <option name="SHMEM_ADDRESS" value="javadebug" />
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
+          <method />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -78,7 +120,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -91,12 +133,7 @@
           <envs />
           <properties />
           <listeners />
-        </configuration>
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-          <module name="" />
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-          <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
         </configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
@@ -104,9 +141,55 @@
       </component>
       <component name="masterDetails">
         <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>groovy-1.8.6</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

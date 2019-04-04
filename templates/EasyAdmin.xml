@@ -1,6 +1,5 @@
 <templateSet group="EasyAdmin">
   <template name="ealoc" value="EasyAdmin.Locale.localize('$s$')" description="EasyAdmin.Locale.localize('');" toReformat="false" toShortenFQNames="true">
     <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
