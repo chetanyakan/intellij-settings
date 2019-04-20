@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="/snap/go/3417" />
+        <option value="/snap/go/3584" />
         <option value="/usr/local/go" />
       </set>
     </sdk-path>
