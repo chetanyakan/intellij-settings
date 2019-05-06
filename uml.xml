@@ -1,0 +1,14 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Flash" categories="One To One;One To Many;Usages;Self-links;Create" />
+        <entry id="MODULES" categories="Libraries;Test dependencies" />
+        <entry id="SPRING" categories="Local context;Properties" />
+        <entry id="SpringIntegration" categories="Show Labels" />
+        <entry id="SpringLocalModels" categories="Show filesets as groups" />
+        <entry id="SpringWebFlow" categories="Details;Events;Sub Flows" />
+      </map>
+    </option>
+  </component>
+</application>
