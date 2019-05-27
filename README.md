@@ -1,2 +1,2 @@
-# settings
-My intellij/pycharm settings
+# intellij-settings
+Intellij IDEA settings repository
