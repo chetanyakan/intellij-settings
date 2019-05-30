@@ -4,5 +4,6 @@
     <variable name="Type" expression="&quot;TypeToUnmarshal&quot;" defaultValue="&quot;TypeToUnmarshal&quot;" alwaysStopAt="true" />
     <variable name="object" expression="&quot;unmarshalledObject&quot;" defaultValue="&quot;unmarshalledObject&quot;" alwaysStopAt="true" />
     <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
