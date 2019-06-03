@@ -1,15 +1,11 @@
 <keymap version="1" name="myconfig" parent="$default">
   <action id=":cursive.actions.paredit/splice" />
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateStructureToolWindow" />
-  <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
