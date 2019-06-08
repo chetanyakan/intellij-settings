@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="selectedTheme" value="NONE" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-36ba7d19:16b39068092:-8000" />
   </component>
 </application>
