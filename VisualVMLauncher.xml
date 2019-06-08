@@ -1,5 +1,0 @@
-<application>
-  <component name="VisualVMLauncher">
-    <option name="visualVmExecutable" value="$USER_HOME$/.sdkman/candidates/visualvm/current" />
-  </component>
-</application>
