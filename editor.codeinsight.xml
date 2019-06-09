@@ -1,8 +1,5 @@
 <application>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
-  </component>
-  <component name="Go">
-    <option name="showDocumentationInParameterPopup" value="true" />
+  <component name="CodeInsightSettings">
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
 </application>
