@@ -9,6 +9,7 @@
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".vaultpw" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
