@@ -3,6 +3,14 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <GoCodeStyleSettings>
+    <option name="ADD_PARENTHESES_FOR_SINGLE_IMPORT" value="true" />
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="MOVE_ALL_IMPORTS_IN_ONE_DECLARATION" value="true" />
+    <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
+    <option name="GROUP_STDLIB_IMPORTS" value="true" />
+    <option name="GROUP_CURRENT_PROJECT_IMPORTS" value="true" />
+  </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -142,5 +150,10 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="go">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
