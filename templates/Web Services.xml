@@ -1,8 +1,0 @@
-<templateSet group="Web Services">
-  <template name="ujo" value="try {&#10;  // create a JAXBContext capable of handling classes generated into package&#10;  javax.xml.bind.JAXBContext jaxbContext = javax.xml.bind.JAXBContext.newInstance( &quot;$mypackage$&quot; );&#10;  // create an Unmarshaller&#10;  javax.xml.bind.Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();&#10;  // unmarshal an instance document into a tree of Java content&#10;  // objects composed of classes from the package.&#10;  $Type$ $object$ = ($Type$)unmarshaller.unmarshal( new java.io.FileInputStream( &quot;$filename$&quot; ) );&#10;} catch( javax.xml.bind.JAXBException je ) {&#10;  je.printStackTrace();&#10;} catch( java.io.IOException ioe ) {&#10;  ioe.printStackTrace();&#10;}" description="Generate JAXB xml 2 object serialization" toReformat="true" toShortenFQNames="false">
-    <variable name="mypackage" expression="complete()" defaultValue="&quot;mypackage&quot;" alwaysStopAt="true" />
-    <variable name="Type" expression="&quot;TypeToUnmarshal&quot;" defaultValue="&quot;TypeToUnmarshal&quot;" alwaysStopAt="true" />
-    <variable name="object" expression="&quot;unmarshalledObject&quot;" defaultValue="&quot;unmarshalledObject&quot;" alwaysStopAt="true" />
-    <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
-  </template>
-</templateSet>
