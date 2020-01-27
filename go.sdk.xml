@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="/snap/go/4901" />
+        <option value="/snap/go/5185" />
         <option value="C:\Go" />
       </set>
     </sdk-path>
