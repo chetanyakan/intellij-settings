@@ -2,8 +2,10 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
+        <option value="" />
         <option value="/snap/go/4901" />
         <option value="/snap/go/5185" />
+        <option value="/snap/go/current" />
         <option value="C:\Go" />
       </set>
     </sdk-path>
