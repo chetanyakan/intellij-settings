@@ -6,6 +6,7 @@
         <option value="/snap/go/4901" />
         <option value="/snap/go/5185" />
         <option value="/snap/go/current" />
+        <option value="/usr/local/Cellar/go/1.13.4/libexec" />
         <option value="C:\Go" />
       </set>
     </sdk-path>
