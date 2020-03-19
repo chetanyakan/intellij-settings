@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+  </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
   </component>
