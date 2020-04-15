@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="www" type="JavaScript" />
       <mapping pattern="TagsInput" type="JavaScript" />
+      <mapping pattern="www" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
