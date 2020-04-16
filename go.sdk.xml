@@ -3,10 +3,12 @@
     <sdk-path>
       <set>
         <option value="" />
-        <option value="/snap/go/3739" />
-        <option value="/snap/go/4098" />
+        <option value="/snap/go/4901" />
+        <option value="/snap/go/5185" />
+        <option value="/snap/go/5364" />
         <option value="/snap/go/current" />
-        <option value="/usr/local/Cellar/go/1.12.4/libexec" />
+        <option value="/usr/local/Cellar/go/1.13.4/libexec" />
+        <option value="C:\Go" />
       </set>
     </sdk-path>
   </component>

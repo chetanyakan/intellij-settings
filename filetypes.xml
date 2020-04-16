@@ -1,14 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="..env.swp" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".vaultpw" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping pattern="TagsInput" type="JavaScript" />
+      <mapping pattern="www" type="JavaScript" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
