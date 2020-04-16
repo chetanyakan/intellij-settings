@@ -391,7 +391,9 @@
   <template name="orp" value="orphans:$END$;" description="orphans:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="wid" value="widows:$END$;" description="widows:...;" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="wid" value="widows:$END$;" description="widows:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="@i" value="@import url($VAR0$);" description="@import url(...);" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
