@@ -6,6 +6,7 @@
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
