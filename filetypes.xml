@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
