@@ -4,6 +4,7 @@
       <mapping pattern="responses.go" type="Go" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".vaultpw" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
