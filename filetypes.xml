@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
+      <mapping pattern="responses.go" type="Go" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env_template" type="PLAIN_TEXT" />
       <mapping pattern=".vaultpw" type="PLAIN_TEXT" />
-      <mapping pattern="responses.go" type="Go" />
     </extensionMap>
   </component>
 </application>
