@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'riff-plugin-metrics'" />
-    <option name="defaultScopeName" value="Project 'riff-plugin-metrics'" />
-    <option name="SEARCH_SCOPE" value="Project 'riff-plugin-metrics'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
