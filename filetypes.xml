@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="main" type="Go" />
-      <mapping pattern="responses.go" type="Go" />
-      <mapping pattern="main.go" type="Go" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env_template" type="PLAIN_TEXT" />
       <mapping pattern=".vaultpw" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <mapping pattern="main" type="Go" />
+      <mapping pattern="main.go" type="Go" />
+      <mapping pattern="responses.go" type="Go" />
     </extensionMap>
   </component>
 </application>
