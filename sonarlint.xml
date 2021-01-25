@@ -1,10 +1,8 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="javascript:S1481" />
-        <option value="javascript:S3317" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="javascript:S1481" />
+      <Rule active="false" key="javascript:S3317" />
+    </rules>
   </component>
 </application>
