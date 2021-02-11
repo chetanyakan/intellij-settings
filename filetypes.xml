@@ -4,8 +4,8 @@
       <mapping pattern="main" type="Go" />
       <mapping pattern="responses.go" type="Go" />
       <mapping pattern="main.go" type="Go" />
-      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env_template" type="PLAIN_TEXT" />
