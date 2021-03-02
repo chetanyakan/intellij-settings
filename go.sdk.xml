@@ -1,16 +1,17 @@
 <application>
   <component name="GoSdkList">
-    <sdk-path>
+    <sdk-url>
       <set>
-        <option value="" />
-        <option value="/snap/go/4901" />
-        <option value="/snap/go/5185" />
-        <option value="/snap/go/5364" />
-        <option value="/snap/go/5759" />
-        <option value="/snap/go/current" />
-        <option value="/usr/local/Cellar/go/1.13.4/libexec" />
-        <option value="C:\Go" />
+        <option value="file://" />
+        <option value="file:///snap/go/4901" />
+        <option value="file:///snap/go/5185" />
+        <option value="file:///snap/go/5364" />
+        <option value="file:///snap/go/5759" />
+        <option value="file:///snap/go/7013" />
+        <option value="file:///snap/go/current" />
+        <option value="file:///usr/local/Cellar/go/1.13.4/libexec" />
+        <option value="file://C:/Go" />
       </set>
-    </sdk-path>
+    </sdk-url>
   </component>
 </application>
