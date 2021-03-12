@@ -1,6 +1,9 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
+  </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
