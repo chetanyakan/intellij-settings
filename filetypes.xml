@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="www" type="JavaScript" />
       <mapping pattern="TagsInput" type="JavaScript" />
+      <mapping pattern="www" type="JavaScript" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
