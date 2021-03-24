@@ -1,20 +1,22 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="TagsInput" type="JavaScript" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="TagsInput" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
-      <removed_mapping ext="tsv" approved="true" type="TSV" />
-      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
