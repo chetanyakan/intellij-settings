@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="www" type="JavaScript" />
       <mapping pattern="TagsInput" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
