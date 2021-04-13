@@ -8,6 +8,9 @@
       <mapping ext="sql" type="DBN-SQL" />
       <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" type="SQL" />
@@ -17,6 +20,7 @@
       <mapping ext="yaml" type="YAML_EX" />
       <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
