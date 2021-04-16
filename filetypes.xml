@@ -12,6 +12,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="www" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" type="SQL" />
       <mapping ext="tsv" type="TSV" />
@@ -19,8 +20,14 @@
       <removed_mapping ext="yaml" type="YAML" />
       <mapping ext="yaml" type="YAML_EX" />
       <mapping ext="yml" type="YAML_EX" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
