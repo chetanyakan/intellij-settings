@@ -5,9 +5,7 @@
       <removed_mapping ext="sql" type="DBN-SQL" />
       <mapping pattern="TagsInput" type="JavaScript" />
       <mapping pattern="www" type="JavaScript" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="www" type="JavaScript" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sql" type="SQL" />
@@ -18,7 +16,11 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
-      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
